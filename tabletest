@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset = "utf-8">
+    <style>
+    body {
+        height: 842px;
+        width: 595px;
+        /* to centre page on screen*/
+        margin-left: auto;
+        margin-right: auto;
+    }
+    </style>
+	</head>
+<h1 align="center">ГОСУДАРСТВЕННОЕ УЧЕБНОЕ ЗАВЕДЕНИЕ</h1><br><br><br>
+<table align="center"><tr><th>РАССМОТРЕНА И ПРИНЯТА На педагогическом совете ГБУ ДО<br>
+Протокол №____от_______________</th>
+<th>УТВЕРЖДАЮ<br>
+Директор ГБУ<br>
+_______________ФИО<br>
+Приказ №____от______________</th>
+</tr></table><br><br><br>
+<p align="center">ДОПОЛНИТЕЛЬНАЯ ОБЩЕООБРАЗОВАТЕЛЬНАЯ ОБЩЕРАЗВИВАЮЩАЯ ПРОГРАММА</p><br>
+<b align="center">Название образовательной программы</h1><br><br>
+<p align="center">Возраст учащихся: A-B лет</p><br>
+<p align="center">Срок реализации: C год(а)</p><br><br><br><br>
+<p align="right">Разработчики:</p><br>
+<b align="right">Фамилия Имя Отчество</b><br>
+<p align="right">педагог дополнительного образования</p><br>
+<b align="right">Фамилия Имя Отчество</b><br>
+<p align="right">педагог дополнительного образования</p><br>
+<b align="right">Фамилия Имя Отчество</b><br>
+<p align="right">педагог дополнительного образования</p><br><br><br><br>
